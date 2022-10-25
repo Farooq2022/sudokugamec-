@@ -1,0 +1,15 @@
+C:\Users\shahi\OneDrive\Desktop\sudokugame\bin\Debug\net6.0\sudokugame.exe
+C:\Users\shahi\OneDrive\Desktop\sudokugame\bin\Debug\net6.0\sudokugame.deps.json
+C:\Users\shahi\OneDrive\Desktop\sudokugame\bin\Debug\net6.0\sudokugame.runtimeconfig.json
+C:\Users\shahi\OneDrive\Desktop\sudokugame\bin\Debug\net6.0\sudokugame.dll
+C:\Users\shahi\OneDrive\Desktop\sudokugame\bin\Debug\net6.0\sudokugame.pdb
+C:\Users\shahi\OneDrive\Desktop\sudokugame\obj\Debug\net6.0\sudokugame.csproj.AssemblyReference.cache
+C:\Users\shahi\OneDrive\Desktop\sudokugame\obj\Debug\net6.0\sudokugame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahi\OneDrive\Desktop\sudokugame\obj\Debug\net6.0\sudokugame.AssemblyInfoInputs.cache
+C:\Users\shahi\OneDrive\Desktop\sudokugame\obj\Debug\net6.0\sudokugame.AssemblyInfo.cs
+C:\Users\shahi\OneDrive\Desktop\sudokugame\obj\Debug\net6.0\sudokugame.csproj.CoreCompileInputs.cache
+C:\Users\shahi\OneDrive\Desktop\sudokugame\obj\Debug\net6.0\sudokugame.dll
+C:\Users\shahi\OneDrive\Desktop\sudokugame\obj\Debug\net6.0\refint\sudokugame.dll
+C:\Users\shahi\OneDrive\Desktop\sudokugame\obj\Debug\net6.0\sudokugame.pdb
+C:\Users\shahi\OneDrive\Desktop\sudokugame\obj\Debug\net6.0\sudokugame.genruntimeconfig.cache
+C:\Users\shahi\OneDrive\Desktop\sudokugame\obj\Debug\net6.0\ref\sudokugame.dll
